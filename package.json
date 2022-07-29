@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "textlint": "npx textlint -c ./textlint/.textlintrc"
+    "lint": "npx textlint -c ./textlint/.textlintrc"
   },
   "devDependencies": {
     "textlint": "^12.2.1",
