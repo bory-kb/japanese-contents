@@ -28,4 +28,4 @@ jobs:
       run: npm install
 
     - name: Run TextLint
-      run: npm run textlint "**/jp.md"
+      run: npm run lint "**/jp.md"
