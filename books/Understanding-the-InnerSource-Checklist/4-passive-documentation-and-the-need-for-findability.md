@@ -1,4 +1,5 @@
-# Passive Documentation and the Need for Findability
+<!-- # Passive Documentation and the Need for Findability -->
+# 消極的文書化と Findability の必要性
 
 **TL;DR**
 
@@ -7,7 +8,7 @@
 * You can accelerate passive documentation by rewarding both the writers and consumers of the document.
 * Passive documentation must be findable to be useable. Sometimes, this means that you will need to manually cross-tag between siloed datasets.
 -->
-  
+消極的文書化はメンタリングと部族内知識の把握に重要です。始めはチームはコミュニケーションロスを発生させますが、しかしベロシティの増加はこのロスを補っても余りあるのです。
 <!-- Passive documentation is the record of the documentation we create every day while communicating openly. It is a great way to get tribal knowledge out of silos and into a format that is archival and findable. As an added bonus, it is typically kept with the project or the code that it documents, thus it is in an easy-to-find, context-relevant location. -->
 
 ## Creating Passive Documentation
