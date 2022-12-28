@@ -1,5 +1,5 @@
 <!-- # Passive Documentation and the Need for Findability -->
-# 消極的文書化と Findability の必要性
+# 消極的ドキュメント化と Findability の必要性
 
 **TL;DR**
 
@@ -8,18 +8,28 @@
 * You can accelerate passive documentation by rewarding both the writers and consumers of the document.
 * Passive documentation must be findable to be useable. Sometimes, this means that you will need to manually cross-tag between siloed datasets.
 -->
-消極的文書化はメンタリングと部族内知識の把握に重要です。始めはチームはコミュニケーションロスを発生させますが、しかしベロシティの増加はこのロスを補っても余りあるのです。
+消極的ドキュメント化はメンタリングと部族内知識の把握に重要です。始めはチームはコミュニケーションロスを発生させますが、しかしベロシティの増加はこのロスを補っても余りあるのです。
+あなたはドキュメントの作成者・消費者双方に報酬を出すことで消極的ドキュメント化を加速できます。
+消極的ドキュメント化は発見可能でなければ、利用可能とはならない。ときどき、これはサイロ化したデータセット間のタグを手動で設定する必要があります。
 <!-- Passive documentation is the record of the documentation we create every day while communicating openly. It is a great way to get tribal knowledge out of silos and into a format that is archival and findable. As an added bonus, it is typically kept with the project or the code that it documents, thus it is in an easy-to-find, context-relevant location. -->
+
+
 
 ## Creating Passive Documentation
 
 <!-- Passive documentation consists of written information that was produced not specifically to document for the future, but to explain something in the present, as it is needed. For example, it often includes the following: -->
+パッシブドキュメンテーションは将来のためではなく、必要に応じて作成された現在の状況を説明するための情報から成っています。
+例えば以下のようなものです。
 
 <!--
 * Conversations that the Trusted Committers (TCs) have while mentoring a contributor who is learning how to integrate with her codebase
 * Conversations the product owners have when they are explaining their priorities to one another, or arranging them
 * The connection between a piece of the code and the project stories about the code, and the live conversations about both
 -->
+- トラステッドコミッターが自身のコードを統合する方法を学んでいるコントリビューターを育成している際に交わした会話
+- プロダクトオーナーたちが互いに優先順位を説明したり、整理整頓するときに交わした会話
+- コードの一部とコードに関するプロジェクトのストーリーの関係性、およびこれらに関した会話
+
 
 <!-- At first, the most difficult part is persuading people to have these conversations more openly. They tend to start out wary of creating a lasting reference document on the fly. We found that when people realize that they are not writing formal documents, but are simply capturing mentoring conversations, the resistance dissipates. And the benefits of the rapid increase in documentation are quickly obvious to all. -->
 
