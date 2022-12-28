@@ -8,7 +8,7 @@
 * You can accelerate passive documentation by rewarding both the writers and consumers of the document.
 * Passive documentation must be findable to be useable. Sometimes, this means that you will need to manually cross-tag between siloed datasets.
 -->
-消極的ドキュメント化はメンタリングと部族内知識の把握に重要です。始めはチームはコミュニケーションロスを発生させますが、しかしベロシティの増加はこのロスを補っても余りあるのです。
+消極的ドキュメント化は人材育成と部族内知識の把握に重要です。初めはチームはコミュニケーションロスを発生させますが、ベロシティの増加はこのロスを補っても余りあるのです。
 あなたはドキュメントの作成者・消費者双方に報酬を出すことで消極的ドキュメント化を加速できます。
 消極的ドキュメント化は発見可能でなければ、利用可能とはならない。ときどき、これはサイロ化したデータセット間のタグを手動で設定する必要があります。
 <!-- Passive documentation is the record of the documentation we create every day while communicating openly. It is a great way to get tribal knowledge out of silos and into a format that is archival and findable. As an added bonus, it is typically kept with the project or the code that it documents, thus it is in an easy-to-find, context-relevant location. -->
