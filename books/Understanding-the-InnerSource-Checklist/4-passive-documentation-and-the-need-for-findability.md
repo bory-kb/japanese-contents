@@ -11,6 +11,7 @@
 パッシブドキュメンﾄは人材育成と部族内知識の把握に重要です。初めはチームはコミュニケーションロスを発生させますが、ベロシティの増加はこのロスを補っても余りあるのです。
 あなたはドキュメントの作成者・消費者双方に報酬を出すことでパッシブドキュメンﾄを加速できます。
 パッシブドキュメンﾄは発見可能でなければ、利用可能とはならない。ときどき、これはサイロ化したデータセット間のタグを手動で設定する必要があります。
+
 <!-- Passive documentation is the record of the documentation we create every day while communicating openly. It is a great way to get tribal knowledge out of silos and into a format that is archival and findable. As an added bonus, it is typically kept with the project or the code that it documents, thus it is in an easy-to-find, context-relevant location. -->
 
 
@@ -34,13 +35,23 @@
 
 <!-- At first, the most difficult part is persuading people to have these conversations more openly. They tend to start out wary of creating a lasting reference document on the fly. We found that when people realize that they are not writing formal documents, but are simply capturing mentoring conversations, the resistance dissipates. And the benefits of the rapid increase in documentation are quickly obvious to all. -->
 
-最初はこれらの会話をよりオープンにするよう説得することが最も難しいのです。
+最初はこれらの会話をもっとオープンにするよう説得することが最も難しいのです。
 彼らは今後も参照するドキュメントを事前準備なしに作ることに対して慎重になる傾向があります。
-私たちは彼らが公式なドキュメントを書いているのではなく、単に育成のための会話を記録しているだけであると気づくと、これらに対する抵抗はなくなっていくことを発見しました。
-またドキュメントの高速な拡充による効果は一目瞭然でした。
+しかし彼らが公式なドキュメントを書いているのではなく、単に育成のために交わした会話を記録しているだけであると気づくと、抵抗感がなくなっていくことがわかりました。
+またドキュメントの急速な拡充によるメリットは一目瞭然でした。
 
 
 <!-- To be captured in passive documentation, conversations need to happen in a written format. Common written formats include comments in a pull request, a tagged conversation in a public Slack channel, a comments page in a wiki, and a tagged email in a discussion group. In the open source world, we often say that conversations that don’t happen publicly on the email list or wiki aren’t “real.” We are working to change the culture internally to be the same. If there is an important discussion in person, at the end of it one person always commits to creating a written record of it. They do this by writing the discussion up in an email that all parties can approve, and then posting the write-up to the larger community. -->
+
+パッシブドキュメントとするためには会話は文字に起こされ一定のフォーマットで記述される必要があります。
+一般的な記述形式はプルリクエストのコメント、Slack のパブリックチャンネルにあるタグ付けされた会話、wiki 内のコメントページ、ディスカッショングループ内のタグ付きメールなどがあります。
+オープンソースの世界ではメーリングリスト、もしくは wiki で公開されていない会話は”本物”ではないとよく言われます。
+私たちは社内においても同じような文化へ変化させていこうと取り組んでいます。
+また、もし対面で重要な議論があったのであれば、最終的に誰か必ず一人が記録に残すと約束します。
+
+They do this by writing the discussion up in an email that all parties can approve, and then posting the write-up to the larger community.
+そのためには全ての関係者が承認できるようにメールに議論の内容を詳しく記述し、その内容をより大きなコミュニティにも公開します。
+
 
 ## “Did You Read the FINE Manual?”
 
