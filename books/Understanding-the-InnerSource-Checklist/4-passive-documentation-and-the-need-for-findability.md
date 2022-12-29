@@ -1,5 +1,5 @@
 <!-- # Passive Documentation and the Need for Findability -->
-# パッシブドキュメンテーションとファインダビリティの必要性
+# パッシブドキュメンﾄとファインダビリティの必要性
 
 **TL;DR**
 
@@ -8,17 +8,18 @@
 * You can accelerate passive documentation by rewarding both the writers and consumers of the document.
 * Passive documentation must be findable to be useable. Sometimes, this means that you will need to manually cross-tag between siloed datasets.
 -->
-パッシブドキュメンテーションは人材育成と部族内知識の把握に重要です。初めはチームはコミュニケーションロスを発生させますが、ベロシティの増加はこのロスを補っても余りあるのです。
-あなたはドキュメントの作成者・消費者双方に報酬を出すことでパッシブドキュメンテーションを加速できます。
-パッシブドキュメンテーションは発見可能でなければ、利用可能とはならない。ときどき、これはサイロ化したデータセット間のタグを手動で設定する必要があります。
+パッシブドキュメンﾄは人材育成と部族内知識の把握に重要です。初めはチームはコミュニケーションロスを発生させますが、ベロシティの増加はこのロスを補っても余りあるのです。
+あなたはドキュメントの作成者・消費者双方に報酬を出すことでパッシブドキュメンﾄを加速できます。
+パッシブドキュメンﾄは発見可能でなければ、利用可能とはならない。ときどき、これはサイロ化したデータセット間のタグを手動で設定する必要があります。
 <!-- Passive documentation is the record of the documentation we create every day while communicating openly. It is a great way to get tribal knowledge out of silos and into a format that is archival and findable. As an added bonus, it is typically kept with the project or the code that it documents, thus it is in an easy-to-find, context-relevant location. -->
 
 
 
-## Creating Passive Documentation
+<!-- ## Creating Passive Documentation -->
+## パッシブドキュメンﾄの作成
 
 <!-- Passive documentation consists of written information that was produced not specifically to document for the future, but to explain something in the present, as it is needed. For example, it often includes the following: -->
-パッシブドキュメンテーションは将来のためではなく、必要に応じて作成された現在の状況を説明するための情報から成っています。
+パッシブドキュメンﾄは将来のためではなく、必要に応じて作成された現在の状況を説明するための情報から成っています。
 例えば以下のようなものです。
 
 <!--
@@ -27,11 +28,17 @@
 * The connection between a piece of the code and the project stories about the code, and the live conversations about both
 -->
 - トラステッドコミッターが自身のコードを統合する方法を学んでいるコントリビューターを育成している際に交わした会話
-- プロダクトオーナーたちが互いに優先順位を説明したり、整理整頓するときに交わした会話
-- コードの一部とコードに関するプロジェクトのストーリーの関係性、およびこれらに関した会話
+- プロダクトオーナーたちが互いにタスクの優先順位を説明したり、整理整頓するときに交わした会話
+- コードの一部とコードに関するプロジェクトのストーリーの関係性、およびこれらに関する会話
 
 
 <!-- At first, the most difficult part is persuading people to have these conversations more openly. They tend to start out wary of creating a lasting reference document on the fly. We found that when people realize that they are not writing formal documents, but are simply capturing mentoring conversations, the resistance dissipates. And the benefits of the rapid increase in documentation are quickly obvious to all. -->
+
+最初はこれらの会話をよりオープンにするよう説得することが最も難しいのです。
+彼らは今後も参照するドキュメントを事前準備なしに作ることに対して慎重になる傾向があります。
+私たちは彼らが公式なドキュメントを書いているのではなく、単に育成のための会話を記録しているだけであると気づくと、これらに対する抵抗はなくなっていくことを発見しました。
+またドキュメントの高速な拡充による効果は一目瞭然でした。
+
 
 <!-- To be captured in passive documentation, conversations need to happen in a written format. Common written formats include comments in a pull request, a tagged conversation in a public Slack channel, a comments page in a wiki, and a tagged email in a discussion group. In the open source world, we often say that conversations that don’t happen publicly on the email list or wiki aren’t “real.” We are working to change the culture internally to be the same. If there is an important discussion in person, at the end of it one person always commits to creating a written record of it. They do this by writing the discussion up in an email that all parties can approve, and then posting the write-up to the larger community. -->
 
