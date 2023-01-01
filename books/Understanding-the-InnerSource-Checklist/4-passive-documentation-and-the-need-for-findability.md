@@ -88,6 +88,16 @@ In the open source world, when you want to find out how to do something, you sim
 In the corporate world, finding information is much more difficult. 
 しかし企業においては、情報を見つけることははるかに難しいのです。
 
+Most information is locked away in different software and datastores that might or might not be searchable. 
+たいていの情報は様々なソフトウェアやデータストアに保存され、検索可能かどうかもわかりません。
+
+Often the information in these applications is locked down by default, because that seems safer. 
+多くの場合、これら保存先にある情報は、そのほうが安全そうなのでデフォルトではアクセスできないようになっています。
+
+But in the long run it is very damaging to a company. 
+しかしながら長い目で見るとこれは企業に大きなダメージを与えています。
+
+Locking information away makes onboarding a new employee a difficult process, and it makes integrating a new acquisition almost impossible. 
 
 <!-- Sometimes, those difficulties are created by the tools themselves when they have a bad or nonexistent search function. Sometimes, there are just so many tools being used that aggregation becomes an issue. Too often, problems are aggravated by pricing issues that force the company to shell out additional fees to enable access for all users. -->
 
