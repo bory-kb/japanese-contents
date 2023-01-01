@@ -98,6 +98,10 @@ But in the long run it is very damaging to a company.
 しかしながら長い目で見るとこれは企業に大きなダメージを与えています。
 
 Locking information away makes onboarding a new employee a difficult process, and it makes integrating a new acquisition almost impossible. 
+情報を閉ざしてしまうと新しく入社した従業員のオンボーディングを困難なものにし、オンボーディングの際に習得できる知識の統一がほぼ不可能になります。
+
+ Moreover, it invites, or even encourages, an atmosphere of tribal knowledge.
+そのうえ、部族内知識を招く、あるいは助長する雰囲気を生み出しかねません。
 
 <!-- Sometimes, those difficulties are created by the tools themselves when they have a bad or nonexistent search function. Sometimes, there are just so many tools being used that aggregation becomes an issue. Too often, problems are aggravated by pricing issues that force the company to shell out additional fees to enable access for all users. -->
 
