@@ -48,8 +48,6 @@
 オープンソースの世界ではメーリングリスト、もしくは wiki で公開されていない会話は”本物”ではないとよく言われます。
 私たちは社内においても同じような文化へ変化させていこうと取り組んでいます。
 また、もし対面で重要な議論があったのであれば、最終的に誰か必ず一人が記録に残すと約束します。
-
-They do this by writing the discussion up in an email that all parties can approve, and then posting the write-up to the larger community.
 そのためには全ての関係者が承認できるようにメールに議論の内容を詳しく記述し、その内容をより大きなコミュニティにも公開します。
 
 
@@ -57,9 +55,21 @@ They do this by writing the discussion up in an email that all parties can appro
 
 <!-- We found that after the TCs had answered a few easy questions publicly on pull requests, the velocity of the next contributor’s pull request immediately increased. -->
 
+トラステッドコミッターがプルリクエスト上で公開されたいくつかの質問に答えたあと、次のコントリビューターからのプルリクエストの速度がすぐに上昇することがわかりました。
+
 <!-- Diligent contributors search the documentation before asking for help, or even writing their pull requests. In our case, we store this in GitHub, and because everything is in GitHub, there is little ambiguity about where to look. We encourage the TCs to refer contributors back to previous conversations when they do not incorporate previous advice in their pull requests. -->
 
+勤勉なコントリビューターは助けを求める前に、あるいはプルリクエストを出す前にドキュメントを探します。
+私たちの場合では、これらのドキュメントはすべて GitHub 上で管理しているのでどこを見ればいいかほとんど迷うことはありません。
+またコントリビューターが過去のアドバイスをプルリクエストに反映していないとき、トラステッドコミッターたちに過去の会話を参照する様、差し戻すことをおすすめしています。
+
 <!-- We are working on ways to reward these public conversations internally. We are creating dashboards that highlight when someone has written especially relevant documentation. And we allow TCs to reward contributors who do their research first. Trust me, the TCs will quickly learn who follows directions and will prioritize their pull requests first! -->
+
+We are working on ways to reward these public conversations internally. 
+社内の公開された会話を報いるための方法を探っています。
+
+ We are creating dashboards that highlight when someone has written especially relevant documentation. 
+特に誰かが関連のあるドキュメントを書いたときにそれを強調するダッシュボードを用意しています。
 
 ## Findability
 
