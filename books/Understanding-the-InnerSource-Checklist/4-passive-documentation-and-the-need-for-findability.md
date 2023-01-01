@@ -44,10 +44,10 @@
 <!-- To be captured in passive documentation, conversations need to happen in a written format. Common written formats include comments in a pull request, a tagged conversation in a public Slack channel, a comments page in a wiki, and a tagged email in a discussion group. In the open source world, we often say that conversations that don’t happen publicly on the email list or wiki aren’t “real.” We are working to change the culture internally to be the same. If there is an important discussion in person, at the end of it one person always commits to creating a written record of it. They do this by writing the discussion up in an email that all parties can approve, and then posting the write-up to the larger community. -->
 
 パッシブドキュメントとするためには会話は文字に起こされ一定のフォーマットで記述される必要があります。
-一般的な記述形式はプルリクエストのコメント、Slack のパブリックチャンネルにあるタグ付けされた会話、wiki 内のコメントページ、ディスカッショングループ内のタグ付きメールなどがあります。
+一般的な記述形式はプルリクエストのコメント、Slack のパブリックチャンネルにあるタグ付けされた会話、wiki 内のコメントページ、ディスカッショングループ内のタグ付きメールなどです。
 オープンソースの世界ではメーリングリスト、もしくは wiki で公開されていない会話は”本物”ではないとよく言われます。
 私たちは社内においても同じような文化へ変化させていこうと取り組んでいます。
-また、もし対面で重要な議論があったのであれば、最終的に誰か必ず一人が記録に残すと約束します。
+また、もし対面で重要な議論があったのであれば、最終的に誰か必ず一人が記録に残すことを約束します。
 そのためには全ての関係者が承認できるようにメールに議論の内容を詳しく記述し、その内容をより大きなコミュニティにも公開します。
 
 
@@ -71,9 +71,23 @@ We are working on ways to reward these public conversations internally.
  We are creating dashboards that highlight when someone has written especially relevant documentation. 
 特に誰かが関連のあるドキュメントを書いたときにそれを強調するダッシュボードを用意しています。
 
+And we allow TCs to reward contributors who do their research first.
+またトラステッドコミッターは最初に調査をしたコントリビューターに報酬を与えることができます。
+
+Trust me, the TCs will quickly learn who follows directions and will prioritize their pull requests first!
+トラステッドコミッターは素早く
+
 ## Findability
+## ファインダビリティ
 
 <!-- In the open source world, when you want to find out how to do something, you simply Google it. In the corporate world, finding information is much more difficult. Most information is locked away in different software and datastores that might or might not be searchable. Often the information in these applications is locked down by default, because that seems safer. But in the long run it is very damaging to a company. Locking information away makes onboarding a new employee a difficult process, and it makes integrating a new acquisition almost impossible. Moreover, it invites, or even encourages, an atmosphere of tribal knowledge. -->
+
+In the open source world, when you want to find out how to do something, you simply Google it. 
+オープンソースの世界においては、何かする方法について知りたいとき、単にググればいいのです。
+
+In the corporate world, finding information is much more difficult. 
+しかし企業においては、情報を見つけることははるかに難しいのです。
+
 
 <!-- Sometimes, those difficulties are created by the tools themselves when they have a bad or nonexistent search function. Sometimes, there are just so many tools being used that aggregation becomes an issue. Too often, problems are aggravated by pricing issues that force the company to shell out additional fees to enable access for all users. -->
 
