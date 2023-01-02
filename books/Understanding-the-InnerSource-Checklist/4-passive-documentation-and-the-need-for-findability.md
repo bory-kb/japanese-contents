@@ -82,29 +82,32 @@ Trust me, the TCs will quickly learn who follows directions and will prioritize 
 
 <!-- In the open source world, when you want to find out how to do something, you simply Google it. In the corporate world, finding information is much more difficult. Most information is locked away in different software and datastores that might or might not be searchable. Often the information in these applications is locked down by default, because that seems safer. But in the long run it is very damaging to a company. Locking information away makes onboarding a new employee a difficult process, and it makes integrating a new acquisition almost impossible. Moreover, it invites, or even encourages, an atmosphere of tribal knowledge. -->
 
-In the open source world, when you want to find out how to do something, you simply Google it. 
-オープンソースの世界においては、何かする方法について知りたいとき、単にググればいいのです。
-
-In the corporate world, finding information is much more difficult. 
-しかし企業においては、情報を見つけることははるかに難しいのです。
-
-Most information is locked away in different software and datastores that might or might not be searchable. 
+オープンソースの世界では、何かをする方法について知りたいとき、単にググれば良いです。
+しかし企業においては、情報を見つけることがオープンソースの世界と比較すると、はるかに難しいです。
 たいていの情報は様々なソフトウェアやデータストアに保存され、検索可能かどうかもわかりません。
-
-Often the information in these applications is locked down by default, because that seems safer. 
-多くの場合、これら保存先にある情報は、そのほうが安全そうなのでデフォルトではアクセスできないようになっています。
-
-But in the long run it is very damaging to a company. 
-しかしながら長い目で見るとこれは企業に大きなダメージを与えています。
-
-Locking information away makes onboarding a new employee a difficult process, and it makes integrating a new acquisition almost impossible. 
+多くの場合、これらの保存先にある情報は、そうしておいたほうが安全そうということでデフォルトで広く公開されていない状態にあります。
+しかしながら長い目で見るとこの状態は企業に大きなダメージを与えています。
 情報を閉ざしてしまうと新しく入社した従業員のオンボーディングを困難なものにし、オンボーディングの際に習得できる知識の統一がほぼ不可能になります。
-
- Moreover, it invites, or even encourages, an atmosphere of tribal knowledge.
 そのうえ、部族内知識を招く、あるいは助長する雰囲気を生み出しかねません。
 
 <!-- Sometimes, those difficulties are created by the tools themselves when they have a bad or nonexistent search function. Sometimes, there are just so many tools being used that aggregation becomes an issue. Too often, problems are aggravated by pricing issues that force the company to shell out additional fees to enable access for all users. -->
 
+時に、これらの問題はツール自身が持つ検索機能が粗悪だったり、そもそも存在しないことにより生じます。
+ただ、多くのツールを使用しているので、情報の集約が難しいのです。
+また、全てのユーザーがアクセスできるようにするためには、追加で費用がかかることが多く、この問題を悪化させているケースがよくあります。
+
 <!-- But documentation is only useful if people can find it, so this is a really important problem to solve. Many of our teams have begun requiring cross-tagging spanning application silos in order to enable manual searching. For example, we have had several teams decide in their contributing agreement that they will not even consider a pull request that does not have a searchable tag of some sort, for example, a JIRA number for a bug fix, or a Rally story number for a feature-level pull request in GitHub. This is a huge help when someone needs to manually search across multiple locked-up datastores, but it isn’t ideal, and it requires developers to be quite diligent. -->
+
+But documentation is only useful if people can find it, so this is a really important problem to solve.
+しかしドキュメントが役に立つのは発見可能なときだけであるため、この問題の解決は非常に重要です。
+
+Many of our teams have begun requiring cross-tagging spanning application silos in order to enable manual searching.
+私たちのチームの多くは手動で検索ができるようにアプリケーションサイロをまたぐようにクロスタグの設定を命じました。
+
+For example, we have had several teams decide in their contributing agreement that they will not even consider a pull request that does not have a searchable tag of some sort, for example, a JIRA number for a bug fix, or a Rally story number for a feature-level pull request in GitHub.
+たとえば、
+バグ修正のための JIRA の Issue 番号や、
+GitHub の Feature レベルのプルリクエストに対する Rally Software® のストーリー番号、など
+検索可能にするためのタグが設定されていないプルリクエストを考慮対象から外すとコントリビューション協定で定めているチームもあります。
 
 <!-- We have begun creating tools to assist in finding and sharing information. We created (and open sourced!) [RallySlack](https://github.com/paypal/rallyslack). When someone is on Slack, RallySlack automatically pulls up all of that individual’s Rally stories to make it easier to find and tag a Slack conversation. With RallySlack, users don’t need to look up or memorize Rally story numbers. We are developing a similar tool for GitHub to help with tagging Rally story numbers in pull requests and issues. Eventually we hope to open source this tool, as well. -->
