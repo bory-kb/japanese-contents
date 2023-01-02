@@ -114,3 +114,21 @@ GitHub の Feature レベルのプルリクエストに対する Rally Software�
  これは誰かが閉ざされた複数のデータストアをまたいで検索する必要があるときに大きな助けになりますが、これは理想的ではなく、開発者たちがかなり勤勉であることが求められます。
 
 <!-- We have begun creating tools to assist in finding and sharing information. We created (and open sourced!) [RallySlack](https://github.com/paypal/rallyslack). When someone is on Slack, RallySlack automatically pulls up all of that individual’s Rally stories to make it easier to find and tag a Slack conversation. With RallySlack, users don’t need to look up or memorize Rally story numbers. We are developing a similar tool for GitHub to help with tagging Rally story numbers in pull requests and issues. Eventually we hope to open source this tool, as well. -->
+
+We have begun creating tools to assist in finding and sharing information.
+私たちは情報の発見・共有を手助けするツールの開発を始めました。
+
+We created (and open sourced!) [RallySlack](https://github.com/paypal/rallyslack).
+それが [RallySlack](https://github.com/paypal/rallyslack) です（オープンソースです！）。
+
+When someone is on Slack, RallySlack automatically pulls up all of that individual’s Rally stories to make it easier to find and tag a Slack conversation. 
+誰かが Slack にいるとき、RallySlack は自動的に個々人の Rally ストーリーを収集し、検索と Slack での会話にタグ付けを簡単にしてくれます。
+
+With RallySlack, users don’t need to look up or memorize Rally story numbers.
+RallySlack を使えばユーザーは Rally のストーリー番号を探したり覚えたりする必要がなくなります。
+
+We are developing a similar tool for GitHub to help with tagging Rally story numbers in pull requests and issues.
+また、GitHub でのプルリクエストや Issue に対して Rally のストーリー番号のタグ付けを手助けする類似のツールを開発しています。
+
+Eventually we hope to open source this tool, as well.
+最終的にはこのツールも RallySlack 同様にオープンソース化したいと考えています。
