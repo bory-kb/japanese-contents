@@ -102,12 +102,15 @@ But documentation is only useful if people can find it, so this is a really impo
 しかしドキュメントが役に立つのは発見可能なときだけであるため、この問題の解決は非常に重要です。
 
 Many of our teams have begun requiring cross-tagging spanning application silos in order to enable manual searching.
-私たちのチームの多くは手動で検索ができるようにアプリケーションサイロをまたぐようにクロスタグの設定を命じました。
+私たちのチームの多くは手動で検索ができるようにアプリケーションサイロをまたぐようにクロスタグの設定を要求するようになりました。
 
 For example, we have had several teams decide in their contributing agreement that they will not even consider a pull request that does not have a searchable tag of some sort, for example, a JIRA number for a bug fix, or a Rally story number for a feature-level pull request in GitHub.
 たとえば、
 バグ修正のための JIRA の Issue 番号や、
 GitHub の Feature レベルのプルリクエストに対する Rally Software® のストーリー番号、など
-検索可能にするためのタグが設定されていないプルリクエストを考慮対象から外すとコントリビューション協定で定めているチームもあります。
+検索可能にするためのタグが設定されていないプルリクエストは考慮対象から外すとコントリビューション協定で定めているチームもあります。
+
+ This is a huge help when someone needs to manually search across multiple locked-up datastores, but it isn’t ideal, and it requires developers to be quite diligent.
+ これは誰かが閉ざされた複数のデータストアをまたいで検索する必要があるときに大きな助けになりますが、これは理想的ではなく、開発者たちがかなり勤勉であることが求められます。
 
 <!-- We have begun creating tools to assist in finding and sharing information. We created (and open sourced!) [RallySlack](https://github.com/paypal/rallyslack). When someone is on Slack, RallySlack automatically pulls up all of that individual’s Rally stories to make it easier to find and tag a Slack conversation. With RallySlack, users don’t need to look up or memorize Rally story numbers. We are developing a similar tool for GitHub to help with tagging Rally story numbers in pull requests and issues. Eventually we hope to open source this tool, as well. -->
