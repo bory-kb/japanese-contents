@@ -55,13 +55,22 @@ InnerSource Commons コミュニティは、定期的にコミュニティのメ
 
 # InnerSource Concepts & Perceptions
 
-## InnerSource Concepts
+<!-- ## InnerSource Concepts -->
+## InnerSource のコンセプト
 
-To start with we asked what respondents think of when they think of InnerSource.
+<!-- To start with we asked what respondents think of when they think of InnerSource.
 The number one concept associated with InnerSource is adopting open source practices within the organization.
 Re-use of software from other teams comes in as a close second.
 Themes relatedto collaboration and learning across the organization come next.
-Apart from the answers below,additional answers included sharing best practices, reducing duplication, and culture change.
+Apart from the answers below,additional answers included sharing best practices, reducing duplication, and culture change. -->
+
+まず初めにこの調査の回答者が InnerSource について考えるとき何を思い浮かべるかを質問しました。
+回答者が最も多く連想したコンセプトは「オープンソースのプラクティスを組織内に取り入れる」でした。
+「他のチームのソフトウェアを再利用する」が僅差で2番目となりました。
+「組織を挙げた協働や学習に関するテーマ」がこれに続く項目となりました。
+上記の回答以外にも、「ベストプラクティスの共有」、「重複の防止」、「文化の変革」などの回答がありました。
+<!-- 重複の防止 は reducing duplication の訳ですが、文脈を考えると 車輪の再発明の防止 とかでも良いかなと思っています -->
+
 
 **When I think of InnerSource, I think of…**
 
