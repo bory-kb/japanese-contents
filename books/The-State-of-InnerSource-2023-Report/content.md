@@ -69,19 +69,25 @@ Apart from the answers below,additional answers included sharing best practices,
 「他のチームのソフトウェアを再利用する」が僅差で2番目となりました。
 「組織を挙げた協働や学習に関するテーマ」がこれに続く項目となりました。
 上記の回答以外にも、「ベストプラクティスの共有」、「重複の防止」、「文化の変革」などの回答がありました。
-<!-- 重複の防止 は reducing duplication の訳ですが、文脈を考えると 車輪の再発明の防止 とかでも良いかなと思っています -->
+<!-- MEMO : 重複の防止 は reducing duplication の訳ですが、文脈を考えると 車輪の再発明の防止 とかでも良いかなと思っています -->
 
-
-**When I think of InnerSource, I think of…**
+<!-- **When I think of InnerSource, I think of…** -->
+**InnerSource について考えるとき、私が思い浮かべるのは…**
 
 ![Untitled](images/Untitled.png)
 
-## Perceived InnerSource Benefits - Individuals
+<!-- ## Perceived InnerSource Benefits - Individuals -->
+## InnerSource の恩恵として個人が感じるもの
+<!-- MEMO :  - Individuals の部分がこの訳だとニュアンスが違う気がする -->
 
-The top three perceived benefits the individual respondents noted were sharing knowledge, networking and increased enjoyment in their work.
-It is interesting that the personal benefits reported do differ from the organizational motivations and measures included below.
+<!-- The top three perceived benefits the individual respondents noted were sharing knowledge, networking and increased enjoyment in their work.
+It is interesting that the personal benefits reported do differ from the organizational motivations and measures included below. -->
 
-**InnerSource has helped me and my team in the following ways…**
+回答者が InnerSource の恩恵として感じたトップ3の内容は、知識の共有、ネットワーキング、仕事の楽しみの増大でした。
+興味深いことに、個人が感じる恩恵として挙げられた内容は、後程触れる組織的な動機や指標とは異なるものであることがわかります。
+
+<!-- **InnerSource has helped me and my team in the following ways…** -->
+**InnerSource が私や私のチームにもたらした効果は…**
 
 ![Untitled](images/Untitled%201.png)
 
