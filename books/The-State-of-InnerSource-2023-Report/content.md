@@ -14,9 +14,10 @@ InnerSource Commons コミュニティは、定期的にコミュニティのメ
 この調査はコミュニティのボランティアによって計画、実施されています。
 本年の調査に関わってくださったすべての方々に感謝いたします。
 
-# Contents
+<!-- # Contents -->
+# 目次
 
-- はじめに 1
+<!-- - Intro 1
 - Contents 2
 - InnerSource Concepts & Perceptions 3
     - InnerSource Concepts 3
@@ -51,9 +52,46 @@ InnerSource Commons コミュニティは、定期的にコミュニティのメ
 - Acknowledgements 30
 - About InnerSource Commons 30
     - Contact Information 30
+    - Learn More 30 -->
+
+- はじめに 1
+- 目次 2
+- InnerSource のコンセプトと認識 3
+    - InnerSource のコンセプトと認識 3
+    - InnerSource の恩恵として個人が感じるもの 4
+- InnerSource in Organizations 5
+    - InnerSource Strategy 5
+    - InnerSource Origins & Trajectory 6
+    - Resourcing InnerSource 8
+    - Organization Motivation & Progress 9
+    - Metrics used to measure InnerSource progress 11
+    - Tools used to measure InnerSource progress 12
+  - InnerSource Blockers 13
+- InnerSource Practices 14
+    - Code Visibility & Discoverability 14
+    - Contribution Practices 14
+    - InnerSource Project Readiness 17
+    - Team Practices 19
+    - Rewards & Career 20
+- InnerSource Commons Feedback 22
+    - Resources to Get Started 22
+    - InnerSource Commons Resources 23
+- About the Survey 24
+    - Methodology 24
+    - Demographics 25
+      - Gender 25
+      - Role 25
+      - Work Experience 26
+    - Firmographics 27
+      - Sector 27
+      - Org & Dev Org Size 28
+      - Geographic Location 29
+- Acknowledgements 30
+- About InnerSource Commons 30
+    - Contact Information 30
     - Learn More 30
 
-# InnerSource Concepts & Perceptions
+# InnerSource のコンセプトと認識
 
 <!-- ## InnerSource Concepts -->
 ## InnerSource のコンセプト
