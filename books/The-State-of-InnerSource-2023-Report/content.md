@@ -129,35 +129,53 @@ It is interesting that the personal benefits reported do differ from the organiz
 
 ![Untitled](images/Untitled%201.png)
 
-# InnerSource in Organizations
+<!-- # InnerSource in Organizations -->
+# 組織における InnerSource
+<!-- MEMO : 一つ前の質問と対応しているはずなので表現を変えた方がわかりやすいかもしれない -->
 
-### InnerSource Strategy
+<!-- ### InnerSource Strategy -->
+### InnerSource 戦略
 
-The majority of respondents agree that InnerSource is both an important strategy in their organization (68%) and executive management explicitly supports InnerSource (65%).
+<!-- The majority of respondents agree that InnerSource is both an important strategy in their organization (68%) and executive management explicitly supports InnerSource (65%). -->
+回答者の大多数が自らの組織において InnerSource が重要な戦略である(68%)と認識しており、また、経営陣も明確に InnerSource を支持している(65%)と回答しています。
 
-**It is clear that InnerSource is an important strategy in my organization.**
+<!-- **It is clear that InnerSource is an important strategy in my organization.** -->
+**InnerSource が私の組織のおいて重要な戦略であることは明らかです**
 
 ![Untitled](images/Untitled%202.png)
 
-**Executive management of my organization explicitly supports the InnerSource initiative.**
+<!-- **Executive management of my organization explicitly supports the InnerSource initiative.** -->
+**私の組織の経営陣は明確に InnerSource イニチアチブを支持しています**
+<!-- MEMO : インナーソースチェックリストの9章でもイニシアチブと訳されていたので踏襲 -->
 
 ![Untitled](images/Untitled%203.png)
 
-### InnerSource Origins & Trajectory
+<!-- ### InnerSource Origins & Trajectory -->
+### InnerSource 導入の起源と広がり
 
-**How was InnerSource introduced to your company?**
+<!-- **How was InnerSource introduced to your company?** -->
+**InnerSource はあなたの会社にどのように導入されましたか？**
 
-39% of respondents said that the InnerSource in their organization started with a bottom-up initiative by one person or a few people.
+<!-- 39% of respondents said that the InnerSource in their organization started with a bottom-up initiative by one person or a few people.
 Only 15% said that it started as a top-down initiative with some from management initiating the adoption.
-A further 39% said it was a mix of both.
+A further 39% said it was a mix of both. -->
 
-**How long ago was InnerSource first adopted in your organization?**
+回答者の39%が自組織における InnerSource は一人、もしくは数人によるボトムアップにより始まったと述べています。
+わずか15%の回答者が経営陣からのトップダウンで導入が始まったと回答しています。
+さらに39%がこれら両方の組み合わせだったと回答しています。
+
+
+
+<!-- **How long ago was InnerSource first adopted in your organization?** -->
+**あなたの組織で初めて InnerSource が導入されたのはいつですか？**
 
 ![Untitled](images/Untitled%204.png)
 
-**How would you describe the current trajectory of InnerSource projects/programs at your organization?**
+<!-- **How would you describe the current trajectory of InnerSource projects/programs at your organization?** -->
+**あなたの組織における InnerSource プロジェクト/プログラムの広がりはどのような状況ですか？**
 
-The vast majority of respondents reported that they were in the “scaling” phase of InnerSource adoption (64%), with a quarter tasked with rolling out InnerSource throughout their organization.
+<!-- The vast majority of respondents reported that they were in the “scaling” phase of InnerSource adoption (64%), with a quarter tasked with rolling out InnerSource throughout their organization. -->
+回答者の大多数が InnerSource の採用が「拡大」フェーズにある(64%)と回答しており、そのうちの4分の1は組織全体に InnerSource を展開する職に就いています。
 
 ![Untitled](images/Untitled%205.png)
 
