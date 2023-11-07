@@ -329,73 +329,96 @@ There were also a substantial number of comments on the need for greater support
 この質問に関連したコメントからは、初期段階で支持を得ることが、人々が取り組みたい/必要とするプロジェクトを選定し、開発者からの関心の広範な欠如に対処する上で非常に重要な障害であることもわかります。
 <!-- MEMO : 見直ししたほうがよい -->
 
-# InnerSource Practices
+<!-- # InnerSource Practices -->
+# InnerSource の実践
 
-### Code Visibility & Discoverability
+<!-- ### Code Visibility & Discoverability -->
+### コードの可視性と発見可能性
 
-57% of respondents said the source code of the InnerSource project they are working on is visible to everybody within their organization.
+<!-- 57% of respondents said the source code of the InnerSource project they are working on is visible to everybody within their organization.
 14% it is visible, only upon request.
-From the comments associated with this question, it appears that code visibility is dependent on, and varies by, the project within organizations.
+From the comments associated with this question, it appears that code visibility is dependent on, and varies by, the project within organizations. -->
+回答者の57%が彼ら自身が取り組む InnerSource プロジェクトのソースコードは組織内の全員が見られる状況にあると回答しています。
+14%は要求があれば見られる状況になる、と回答しています。
+この質問に関連するコメントから、ソースコードの可視性はプロジェクトに依存し、組織内のプロジェクトごとに異なることが明らかになりました。
 
-Almost half (49%) of the respondents said there was a standardized way to “register” or “advertise” projects as InnerSource in their organization.
+<!-- Almost half (49%) of the respondents said there was a standardized way to “register” or “advertise” projects as InnerSource in their organization. -->
+回答者のほぼ半数(49%)が、組織内でプロジェクトを InnerSource として「登録」、または「宣伝」するための標準化された方法があると述べています。
 
-### Contribution Practices
+<!-- ### Contribution Practices -->
+### コントリビューションの実践
 
-**People within my organization are afforded time to contribute to InnerSource projects.**
+<!-- **People within my organization are afforded time to contribute to InnerSource projects.** -->
+**私の組織の人々は InnerSource プロジェクトへのコントリビューションに時間を割くことができます**
 
 ![Untitled](images/Untitled%2010.png)
 
-**People within my organization can choose what projects to work on based on their expertise and motivations.**
+<!-- **People within my organization can choose what projects to work on based on their expertise and motivations.** -->
+**私の組織の人々は彼らの専門知識とモチベーションをもとに取り組むプロジェクトを選択することができます**
 
 ![Untitled](images/Untitled%2011.png)
 
-**Developers in my organization are supported and encouraged to make guest contributions to projects outside their departments / business units / teams.**
+<!-- **Developers in my organization are supported and encouraged to make guest contributions to projects outside their departments / business units / teams.** -->
+**私の組織では開発者たちが他の部門/事業部/チームのプロジェクトへコントリビューションすることを支援、奨励しています。**
 
 ![Untitled](images/Untitled%2012.png)
 
-**My project has accepted guest contributions from people not in the team.**
+<!-- **My project has accepted guest contributions from people not in the team.** -->
+**私のプロジェクトはチームメンバーでない外部からのコントリビューションを受け入れています**
 
 ![Untitled](images/Untitled%2013.png)
 
-### InnerSource Project Readiness
+<!-- ### InnerSource Project Readiness -->
+### InnerSource プロジェクトの準備状況
 
 ![Untitled](images/Untitled%2014.png)
 
-**Members of my team have experience accepting guest contributions from people outside the team.**
+<!-- **Members of my team have experience accepting guest contributions from people outside the team.** -->
+**私のチームのメンバーはチームメンバーでない外部からのコントリビューションを受け入れた経験があります**
 
 ![Untitled](images/Untitled%2015.png)
 
-### Team Practices
+<!-- ### Team Practices -->
+### Team の実践
 
 ![Untitled](images/Untitled%2016.png)
 
-### Rewards & Career
+<!-- ### Rewards & Career -->
+### 報酬とキャリア
 
-**My organization offers rewards for people who make guest contributions to projects owned by other teams.**
+<!-- **My organization offers rewards for people who make guest contributions to projects owned by other teams.** -->
+**私の組織はほかのチームが所有するプロジェクトにコントリビューションする人々に対して報酬を与えています**
 
 ![Untitled](images/Untitled%2017.png)
 
-**My organization has defined criteria for career promotions based on InnerSource values and contributions.**
+<!-- **My organization has defined criteria for career promotions based on InnerSource values and contributions.** -->
+**私の組織は InnerSource の価値とコントリビューションに基づいた昇進の基準を定義しています**
 
 ![Untitled](images/Untitled%2018.png)
 
-**My organization supports a path for career advancement that does not require management.**
+<!-- **My organization supports a path for career advancement that does not require management.** -->
+**私の組織は管理職でないキャリアパスをサポートしています**
 
 ![Untitled](images/Untitled%2019.png)
 
-# InnerSource Commons Feedback
+<!-- # InnerSource Commons Feedback -->
+# InnerSource Commons フィードバック
 
-### Resources to Get Started
+<!-- ### Resources to Get Started -->
+### InnerSource を始めるためのリソース
 
 ![Untitled](images/Untitled%2020.png)
 
-### InnerSource Commons Resources
+<!-- ### InnerSource Commons Resources -->
+### InnerSource Commons のリソース
 
-**Which InnerSource Commons activities and assets have you engaged and made use of?**
+<!-- **Which InnerSource Commons activities and assets have you engaged and made use of?** -->
+**InnerSource Commons のどの活動や資産を利用しましたか？**
 
 ![Untitled](images/Untitled%2021.png)
 
-**What features or content could be added to make InnerSource Commons more useful to you?**
+<!-- **What features or content could be added to make InnerSource Commons more useful to you?** -->
+**InnerSource Commons をより役立つものにするために追加すべき機能やコンテンツはなんですか？**
 
 ![Untitled](images/Untitled%2022.png)
 
