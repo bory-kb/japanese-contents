@@ -59,23 +59,23 @@ InnerSource Commons コミュニティは、定期的にコミュニティのメ
 - InnerSource のコンセプトと認識 3
     - InnerSource のコンセプトと認識 3
     - InnerSource の恩恵として個人が感じるもの 4
-- InnerSource in Organizations 5
-    - InnerSource Strategy 5
-    - InnerSource Origins & Trajectory 6
-    - Resourcing InnerSource 8
-    - Organization Motivation & Progress 9
-    - Metrics used to measure InnerSource progress 11
-    - Tools used to measure InnerSource progress 12
-  - InnerSource Blockers 13
-- InnerSource Practices 14
-    - Code Visibility & Discoverability 14
-    - Contribution Practices 14
-    - InnerSource Project Readiness 17
-    - Team Practices 19
-    - Rewards & Career 20
-- InnerSource Commons Feedback 22
-    - Resources to Get Started 22
-    - InnerSource Commons Resources 23
+- 組織における InnerSource 5
+    - InnerSource 戦略 5
+    - InnerSource 導入の起源と広がり 6
+    - InnerSource へのリソースの用意 8
+    - 組織のモチベーションと進捗 9
+    - InnerSource の進捗の測定に用いられる指標 11
+    - InnerSource の進捗を測定するために使用されるツール 12
+  - InnerSource の障害 13
+- InnerSource の実践 14
+    - コードの可視性と発見可能性 14
+    - コントリビューションの実践 14
+    - InnerSource プロジェクトの準備状況 17
+    - Team の実践 19
+    - 報酬とキャリア 20
+- InnerSource Commons フィードバック 22
+    - InnerSource を始めるためのリソース 22
+    - InnerSource Commons のリソース 23
 - About the Survey 24
     - Methodology 24
     - Demographics 25
